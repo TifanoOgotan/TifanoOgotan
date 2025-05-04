@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+##### Skills
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,flask)](https://skillicons.dev)
+
+##### Connect With Me
+![https://instagram.com/tifanoogotan](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![www.linkedin.com/in/tifanoengogotan](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
