@@ -1,5 +1,4 @@
-## Hi there 👋
-
+![lelouch](https://images.steamusercontent.com/ugc/936057354832552163/968D22355DA2DF4A5F358EAFE92A833E5F431F9E/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
 <!--
 **TifanoOgotan/TifanoOgotan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
